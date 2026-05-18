@@ -24,14 +24,14 @@
   },
   "topbarLinks": [{
     "name": "Home",
-    "url": "https://repforce.ai"
+    "url": "https://app.repforce.ai"
   }, {
     "name": "Support",
-    "url": "https://ecom.repforce.ai/booking"
+    "url": "https://repforce.ai/booking"
   }],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://repforce.ai"
+    "url": "https://app.repforce.ai"
   },
   "anchors": [{
     "name": "No-Code Automation",
