@@ -4,7 +4,7 @@
   "logo": {
     "light": "/resources/logo/logo-light.png",
     "dark": "/resources/logo/logo-dark.png",
-    "width": 150
+    "width": 300
   },
   "favicon": "/favicon.png",
   "colors": {
