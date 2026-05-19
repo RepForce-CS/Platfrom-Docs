@@ -52,7 +52,7 @@
   "navigation": [{
       "group": "Introduction",
       "pages": [
-        "introduction/what-is-autocalls",
+        "introduction/what-is-repforce",
         "introduction/how-it-works",
         "introduction/key-terminology"
       ]
