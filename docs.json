@@ -2,9 +2,9 @@
   "theme": "mint",
   "name": "RepForce.ai",
   "colors": {
-    "primary": "#06df4b",
-    "light": "#06df4b",
-    "dark": "#65fe50"
+    "primary": "#fa5518",
+    "light": "#fa5518",
+    "dark": "#fb6c35"
   },
   "favicon": "/favicon.png",
   "logo": {
