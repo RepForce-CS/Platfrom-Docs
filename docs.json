@@ -13,7 +13,7 @@
   },
   "api": {
     "mdx": {
-      "server": "https://repforce.ai/api/",
+      "server": "https://app.repforce.ai/api/",
       "auth": {
         "method": "bearer"
       }
