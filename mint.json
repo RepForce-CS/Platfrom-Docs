@@ -3,7 +3,8 @@
   "name": "RepForce.ai",
   "logo": {
     "light": "/resources/logo/logo-light.png",
-    "dark": "/resources/logo/logo-dark.png"
+    "dark": "/resources/logo/logo-dark.png",
+    "width": 150
   },
   "favicon": "/favicon.png",
   "colors": {

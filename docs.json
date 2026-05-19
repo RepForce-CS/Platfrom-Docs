@@ -9,7 +9,8 @@
   "favicon": "/favicon.png",
   "logo": {
     "light": "/resources/logo/logo-light.png",
-    "dark": "/resources/logo/logo-dark.png"
+    "dark": "/resources/logo/logo-dark.png",
+    "width": 150
   },
   "api": {
     "mdx": {
