@@ -15,8 +15,7 @@
     "mdx": {
       "server": "https://repforce.ai/api/",
       "auth": {
-        "method": "bearer",
-        "name": null
+        "method": "bearer"
       }
     }
   },
