@@ -8,8 +8,8 @@
   },
   "favicon": "/favicon.png",
   "logo": {
-    "light": "/resources/logo/light.png",
-    "dark": "/resources/logo/dark.png"
+    "light": "/resources/logo/dark.png",
+    "dark": "/resources/logo/light.png"
   },
   "api": {
     "mdx": {
