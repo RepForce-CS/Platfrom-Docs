@@ -4,7 +4,7 @@
   "logo": {
     "light": "/resources/logo/logo-light.png",
     "dark": "/resources/logo/logo-dark.png",
-    "width": 300
+    "width": 200
   },
   "favicon": "/favicon.png",
   "colors": {
@@ -401,7 +401,7 @@
     "linkedin": "https://www.linkedin.com/company/repforce-ai"
   },
   "api": {
-    "baseUrl": "https://repforce.ai/api/",
+    "baseUrl": "https://app.repforce.ai/api/",
     "auth": {
       "method": "bearer"
     }
